@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "firstname": "frankie",
+      "lastname": "sdds",
+      "email": "frank@gmail.com",
+      "phone": "66676767676",
+      "password": "12345",
+      "confirmpassword": "12345",
+      "gender": "male",
+      "id": 1
+    },
+    {
+      "firstname": "frantgiu",
+      "lastname": "paool",
+      "email": "pao@gma.com",
+      "phone": "14444",
+      "password": "12345",
+      "confirmpassword": "12345",
+      "gender": "male",
+      "id": 2
+    }
+  ]
+}
